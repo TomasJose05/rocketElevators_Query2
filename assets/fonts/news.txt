@@ -1,0 +1,137 @@
+<div class="img-hover">
+							<a href="https://elevatorworld.com/news/daily-news/ceca-western-region-meeting-and-networking-event-planned/">
+								<img class="img-fluid" src="assets/images/newsImg/new9.jpg" alt="" style="width: 300px; height: 200px;">>
+							</a>
+							<h4 class="text-left mt-20" style="color: cyan;"><a href="blog-single-default.html" style="color: cyan;">CECA Western Region Meeting and Networking Event Planned</a></h4>
+							<p class="text-left" style="color: cyan;">
+								The event is planned at SPEEDERS in Richmond, B.C.; image courtesy of SPEEDERS.
+								</p>
+							<ul class="text-left fs-12 list-inline list-separator">
+								<li style="color: cyan;">
+									<i class="fa fa-calendar"></i> 
+									7th Oct 2024
+								</li>
+								<li>
+									<!-- 
+									<a href="blog-single-default.html#comments">
+										<i class="fa fa-comments"></i> 
+										3
+									</a> -->
+								</li>
+							</ul>
+						</div>
+						<div class="img-hover">
+							<a href="https://elevatorworld.com/news/daily-news/shorts-again-offers-roadshow-for-lift-professionals/">
+								<img class="img-fluid" src="assets/images/newsImg/new8.jpg" alt="" style="width: 300px; height: 200px;">>
+							</a>
+							<h4 class="text-left mt-20" style="color: cyan;"><a href="blog-single-default.html" style="color: cyan;">Lorem Ipsum Dolor</a></h4>
+							<p class="text-left" style="color: cyan;">The event provides lift professionals with the opportunity to deepen their understanding of Shorts’ advanced Langer & Laumann Door Operator; image courtesy of Langer & Laumann.
+								</p>
+							<ul class="text-left fs-12 list-inline list-separator">
+								<li style="color: cyan;">
+									<i class="fa fa-calendar"></i> 
+									20th Oct 2024
+								</li>
+								<li>
+									<!-- 
+									<a href="blog-single-default.html#comments">
+										<i class="fa fa-comments"></i> 
+										3
+									</a> -->
+								</li>
+							</ul>
+						</div>
+
+						<div class="img-hover">
+							<a href="https://elevatorworld.com/news/daily-news/london-gate-and-franck-muller-launch-another-dubai-tower/">
+								<img class="img-fluid" src="assets/images/newsImg/new12.jpg" alt="" style="width: 300px; height: 200px;">>
+							</a>
+
+							<h4 class="text-left mt-20" style="color: cyan;"><a>London Gate and Franck Muller Launch Another Dubai Tower
+							</a></h4>
+							<p class="text-left" style="color: cyan;">Franck Muller Vanguard Tower; image courtesy of Metropolitan Premium Properties
+								Franck Muller Vanguard Tower; image courtesy of Metropolitan Premium Properties
+								</p>
+							<ul class="text-left fs-12 list-inline list-separator">
+								<li style="color: cyan;">
+									<i class="fa fa-calendar"></i> 
+									22th Oct 2024
+								</li>
+								<li>
+									<!-- 
+									<a href="blog-single-default.html#comments">
+										<i class="fa fa-comments"></i> 
+										3
+									</a> -->
+								</li>
+							</ul>
+						</div>
+
+
+					<div class="img-hover">
+						<a href="https://elevatorworld.com/news/daily-news/interlift-2025-in-nuremburg-shaping-up-to-be-bigger-than-ever/">
+							<img class="img-fluid" src="assets/images/newsImg/new13.jpg" alt="" style="width: 300px; height: 200px;">>
+						</a>
+
+						<h4 class="text-left mt-20" style="color: cyan;"><a> Interlift 2025 in Nuremburg Shaping Up To Be Bigger Than Ever</a></h4>
+						<p class="text-left" style="color: cyan;">Interlift 2025 in Nuremburg Shaping Up To Be Bigger Than Ever</p>
+						<ul class="text-left fs-12 list-inline list-separator">
+							<li style="color: cyan;">
+								<i class="fa fa-calendar"></i> 
+								24th Oct 2024
+							</li>
+							<li>
+								<!-- 
+								<a href="blog-single-default.html#comments">
+									<i class="fa fa-comments"></i> 
+									3
+								</a> -->
+							</li>
+						</ul>
+					</div>
+
+					<div class="img-hover">
+						<a href="https://elevatorworld.com/news/daily-news/lift-comm-collaborates-with-nyc-mta-on-accessibility-upgrades/">
+							<img class="img-fluid" src="assets/images/newsImg/new10.jpg" alt="" style="width: 300px; height: 200px;">>
+						</a>
+
+						<h4 class="text-left mt-20" style="color: cyan;"><a>Lift Comm Collaborates with NYC MTA on Accessibility Upgrades</a></h4>
+						<p class="text-left" style="color: cyan;">Rendering of the new elevator being built on the south side of Queensboro Plaza, one of three new elevators planned for the now-inaccessible station; image courtesy of MTA
+						</p>
+						<ul class="text-left fs-12 list-inline list-separator">
+							<li style="color: cyan;">
+								<i class="fa fa-calendar"></i> 
+								20th Oct 2024
+							</li>
+							<li>
+								<!-- 
+								<a href="blog-single-default.html#comments">
+									<i class="fa fa-comments"></i> 
+									3
+								</a> -->
+							</li>
+						</ul>
+					</div>
+
+					<div class="img-hover">
+						<a href="https://elevatorworld.com/news/daily-news/alberto-sassi-partners-with-u-s-based-master-elevator-parts/">
+							<img class="img-fluid" src="assets/images/newsImg/new11.png" alt="" style="width: 300px; height: 200px;">>
+						</a>
+
+						<h4 class="text-left mt-20" style="color: cyan;"><a>Alberto Sassi Partners With U.S.-Based Master Elevator Parts</a></h4>
+						<p class="text-left" style="color: cyan;">Alberto Sassi unveiled its new G-525 gearless machine, specifically engineered to comply with North American standards
+							</p>
+						<ul class="text-left fs-12 list-inline list-separator">
+							<li style="color: cyan;">
+								<i class="fa fa-calendar"></i> 
+								21th Oct 2024
+							</li>
+							<li>
+								<!-- 
+								<a href="blog-single-default.html#comments">
+									<i class="fa fa-comments"></i> 
+									3
+								</a> -->
+							</li>
+						</ul>
+					</div>
